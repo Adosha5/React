@@ -5,3 +5,5 @@ Tehtävissä harjoiteltu:
 - formin käyttö
 - tapahtumankäsittely
 - conditional rendering
+
+Sovelluksen käynnistys: npm run start
