@@ -5,7 +5,7 @@ Tehtävissä harjoiteltu React Router dom V6 käyttöä:
 - REST-rajapinnan käyttö
 - yksinkertainen kirjautuminen sivulle
 - ulkoisen CSS-tiedoston käyttö tyylimäärittelyihin
-- qyery parametrien käyttö
+- query parametrien käyttö
 
 Sovelluksen käynnistys: npm run start
 json-serverin käynnistys: json-server --watch db.json --delay 1000 --port 3004
