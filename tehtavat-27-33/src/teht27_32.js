@@ -17,6 +17,8 @@ const Spa = (props) => {
       {user ? <h3>{user},{id}</h3> : null
       }
       <Routes>
+        <Route path="/" element={<Koti />} />
+        
         <Route path="/koti" element={<Koti />} />
         
         <Route path="/autot" element=
